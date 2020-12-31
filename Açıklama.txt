@@ -1,0 +1,2 @@
+Web programlama projemde bir kitap sayfası tasarlıycam. Bu sayfada admin için giriş olucak ve insanlar kitaplar hakkında bilgi edinebilecek.
+Aynı zamanda insanlar üye olabilecekler.
