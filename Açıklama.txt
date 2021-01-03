@@ -1,2 +1,4 @@
-Web programlama projemde bir kitap sayfası tasarlıycam. Bu sayfada admin için giriş olucak ve insanlar kitaplar hakkında bilgi edinebilecek.
-Aynı zamanda insanlar üye olabilecekler.
+Web programlama projemde bir kitap sayfası tasarlıycam. Bu sayfada üye olmayan kişiler sadece ana sayfayı görücekler ve kitaplar hakkında daha detaylı bilgi edinebilmeleri için üye olmaları gerekecek. Admin için ise ayrı bir panel olacak ve gerekli işlemlerini o panelden yapabilecek. Site hem ingilizce hem türkçe dil desteği sunacak. 
+Ali Hakan Şen
+B181210014 
+1. Öğretim A grubu
